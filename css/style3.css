@@ -1,0 +1,36 @@
+.item1 {
+  background-color: rgb(157, 208, 250);
+}
+.item2 {
+  background-color: rgb(157, 208, 250);
+}
+.item3 {
+  background-color: rgb(157, 208, 250);
+}
+.item4 {
+  background-color: purple;
+}
+.item5 {
+  background-color: red;
+}
+.item6 {
+  background-color: blue;
+}
+.item7 {
+  background-color: pink;
+}
+.item8 {
+  background-color: pink;
+}
+.item9 {
+  background-color: pink;
+}
+
+.container {
+  /* STARTER */
+  font-family: sans-serif;
+
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 1fr 1fr 1fr;
+}

@@ -1,0 +1,14 @@
+.div1 {
+  width: 20px;
+  height: 5px;
+}
+
+.div1 {
+  width: 20px;
+  height: 5px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+}
